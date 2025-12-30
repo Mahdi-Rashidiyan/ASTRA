@@ -14,7 +14,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-40.3%25-orange)
 ![Shell](https://img.shields.io/badge/shell-3.8%25-green)
 
-> **ASTRA** is a high-performance computing (HPC) shell with physics-oriented features, designed to facilitate efficient job management and resource monitoring in computational physics environments【turn0fetch0】.
+> **ASTRA** is a high-performance computing (HPC) shell with physics-oriented features, designed to facilitate efficient job management and resource monitoring in computational physics environments.
 
 ## 🚀 Features
 
